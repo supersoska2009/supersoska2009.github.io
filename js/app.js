@@ -1,6 +1,6 @@
 // 3D Scroll
 
-alert("хуй?")
+alert("Нажми ОК, если любишь меня.")
 
 let zSpasing = -1000,
 lastPos = zSpasing / 5,
